@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Book Seeker</string>
+
+    <!-- Menu -->
+    <string name="menu_reading_now">Reading Now</string>
+    <string name="menu_library">Library</string>
+    <string name="menu_book_store">Book Store</string>
+    <string name="menu_search">Search</string>
+
+    <!-- Search Fragment -->
+    <string name="search_fragment_title">Search</string>
+    <string name="search_fragment_recent">RECENT</string>
+    <string name="search_fragment_clear">CLEAR</string>
+    <string name="search_fragment_invalid_query">Please inform a valid book name!</string>
+    <string name="search_fragment_query_too_small">Please inform at least 3 letters!</string>
+
+    <!-- Search Result Fragment -->
+    <string name="search_result_fragment_title">Something went wrong,\n please try again!</string>
+
+    <!-- Book Detail Fragment -->
+    <string name="book_detail_fragment_title">Publisher Description</string>
+
+    <string name="feature_not_ready_message">Looks like this feature isn\'t ready\n please come back later!</string>
+
+</resources>
